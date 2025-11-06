@@ -1,4 +1,4 @@
-# Orders.co Cardpointe Terminal Node.js Library
+# Cardpointe Terminal Node.js Library
 
 The Orders.co Cardpointe Terminal Node library written in server-side JavaScript.
 
